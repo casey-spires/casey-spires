@@ -1,16 +1,18 @@
-### Hi there 👋
+## :smile: What up, I'm Casey
 
-<!--
-**casey-spires/casey-spires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Senior Software Engineer working at Humana in the wonderful world of Observability (O11y) :eye:. I enjoy solving complex issues and making the lives of everyone around me easier. I also like to have fun and am easily befriended just reach out! I also really enjoy functional programming when I can use it.
 
-Here are some ideas to get you started:
+:hammer: Languages/Scripting tools
+- Terraform
+- Typescript
+- C#
+- Bash (POSIX)
+- Anisble
+- YAML azure pipelines and github actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:wrench: Platforms
+- Dynatrace
+- Splunk
+- Service Now
+- Azure Devops
+- Github
